@@ -73,5 +73,5 @@ Before you begin, ensure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bus-booking-system.git
-cd bus-booking-system
+git clone https://github.com/samiahayat/Bus-Ticket-Booking-System.git
+cd bus-booking-client
